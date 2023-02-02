@@ -1,1 +1,1 @@
-This project is for JS101 
+This project is for trial purpose (JS101) 
